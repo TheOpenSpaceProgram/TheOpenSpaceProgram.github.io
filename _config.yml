@@ -25,21 +25,16 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://TheOpenSpaceProgram.github.io'
 
 github:
-  username: github_username             # change to your github username
-
-twitter:
-  username: twitter_username            # change to your twitter username
+  username: TheOpenSpaceProgram             # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: TheOpenSpaceProgram
   email: example@doamin.com             # change to your email address
   links:
-    # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
-    # Uncomment below to add more social links
+    - https://github.com/TheOpenSpaceProgram
+    - https://discord.gg/CjbdXQt3j7
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
 
@@ -74,7 +69,7 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: assets/img/icon/osp-logo-128.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
