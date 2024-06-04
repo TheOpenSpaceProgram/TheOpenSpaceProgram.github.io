@@ -7,12 +7,12 @@
   icon: "fa-brands fa-discord"
   url: "https://discord.gg/CjbdXQt3j7"
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+# - type: twitter
+#   icon: "fa-brands fa-x-twitter"
 
-- type: email
-  icon: "fas fa-envelope"
-  noblank: true # open link in current tab
+# - type: email
+#   icon: "fas fa-envelope"
+#   noblank: true # open link in current tab
 
 - type: rss
   icon: "fas fa-rss"
